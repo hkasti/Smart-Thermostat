@@ -1,1 +1,2 @@
-# smart-thermostat
+# Smart Thermostat
+# This project is an arduino project that helps control your house cooler and heater devices using a phone application. The application connects to esp32 via wifi. This project also includes pieces like esp32, DHT11, PIR sensor, OLED lcd, 5v Relays as cooler and heater. If no motion is detected from the PIR sensor then automatically the cooler and heater stop after a few minutes. If the user needs the room temperature to be a specific temperature, they can set it and the cooler and heater will be adujsted accordingly.
